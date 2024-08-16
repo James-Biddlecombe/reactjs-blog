@@ -1,2 +1,0 @@
-# reactjs-blog
-reactjs blog
